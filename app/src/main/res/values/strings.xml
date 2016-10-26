@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ColorChanger</string>
+    <string name="blue">#0000FF</string>
+    <string name="green">#00FF00</string>
 </resources>
